@@ -127,7 +127,7 @@ export default function DashboardView({
           <span className="bg-blue-500/20 text-blue-350 text-[10px] uppercase font-bold tracking-widest px-2.5 py-1 rounded-full border border-blue-550/30">
             DASHBOARD UTAMA
           </span>
-          <h2 className="text-xl md:text-2xl font-bold tracking-tight">Selamat Datang di Portal Kasir Sekolah</h2>
+          <h2 className="text-xl md:text-2xl font-bold tracking-tight">Bendahara Pondok Pesantren Darunnajah</h2>
           <p className="text-sm text-slate-350 font-sans">
             Sistem Pemantauan Pembayaran Siswa Terintegrasi & Cetak Kuitansi Otomatis • <b>{config.namaSekolah}</b>
           </p>
